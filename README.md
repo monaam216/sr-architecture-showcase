@@ -46,7 +46,9 @@ Une vitrine sobre pour mettre en valeur les réalisations du cabinet, avec un vr
 ### Mobile
 
 <p align="center">
-  <img src="images/mobile-1.png" alt="SR Architecture Djerba — capture mobile 1" width="40%">
+  <img src="images/mobile-1.png" alt="SR Architecture Djerba — capture mobile 1" width="31%">
+  <img src="images/mobile-2.png" alt="SR Architecture Djerba — capture mobile 2" width="31%">
+  <img src="images/mobile-3.png" alt="SR Architecture Djerba — capture mobile 3" width="31%">
 </p>
 
 ## Fiche
